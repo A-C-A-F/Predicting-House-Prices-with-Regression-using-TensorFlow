@@ -1,4 +1,4 @@
-# Predicting-House-Prices-with-Regression-using-TensorFlow
+# Regression-using-TensorFlow
 Predicting House Prices with Regression using TensorFlow
 
 
